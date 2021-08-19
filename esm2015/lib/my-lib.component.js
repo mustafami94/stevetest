@@ -18,6 +18,7 @@ MyLibComponent.ɵcmp = i0.ɵɵdefineComponent({ type: MyLibComponent, selectors:
                 template: `
     <p>
     عظم الله اجركم 
+    asdasdasdsd
     </p>
   `,
                 styles: []
